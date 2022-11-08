@@ -135,8 +135,10 @@ From inside of VM1, your next installation will be Internet Information Service 
 <<p>
  
 From your google drive documents, download and install Web Platform Installer inside of VM1.
-<br />
 
+ <br />
+
+ 
 <img src="https://i.imgur.com/OEqgmSq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <<p>
@@ -149,10 +151,10 @@ From the Windows start menu, search for the Web Platform Installer and click on 
 </p>
 <<p>
  
+ 
 In the search field, type MySQL 5.5 and then search. When it appears, select "Add".
 </p>
 <br />
-
 <img src="https://i.imgur.com/bXYePTs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <<p>
