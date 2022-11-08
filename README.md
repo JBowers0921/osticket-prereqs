@@ -143,10 +143,12 @@ From your google drive documents, download and install Web Platform Installer in
  
 From the Windows start menu, search for the Web Platform Installer and click on the app to open it.
 </p>
-<br /
-<img src="https://i.imgur.com/ehywq22.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<img src="https://i.imgur.com/iF4YIGS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+<<p>
+ 
 In the search field, type MySQL 5.5 and then search. When it appears, select "Add".
 </p>
 <br />
@@ -157,16 +159,20 @@ In the search field, type MySQL 5.5 and then search. When it appears, select "Ad
  
 Next, in the same search field, type "PHP" and enter. Sort/Filter by name. Scroll down to where PHP begins and start adding all the simple version of x86 from 5.6.31 x86 to 7.3.25 x86. Select "Install"
 </p>
-<br /
-<img src="https://i.imgur.com/0DxRbt9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<img src="https://i.imgur.com/mM1ooMd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+<<p>
+ 
 The next pop-up window will require you to enter your password two times and click "Continue". Wait for the installation to stop.
 </p>
-<br /
-<img src="https://i.imgur.com/yYDo6l4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<img src="https://i.imgur.com/vHqS7X5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+<<p>
+ 
 In the next pop-up window, select "I Accept" to continue".
 </p>
 <br />
