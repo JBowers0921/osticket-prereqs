@@ -202,12 +202,15 @@ Go back to the download folder and open the extracted folder and find the folder
 </p>
 <br />
 <img src="https://i.imgur.com/lc28wA6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/6axEaEY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 From the windows start menu and open the IIS app. Select the Restart icon in order to refresh the app. 
 
-On the same screen, in the upper left area under Connections, go to Sites>Default Web>osTicket. Click on the osTicket folder in order to see "Browse*.80" on the right under "Browse Folder". Click on it and it will open the osTicket Installer window in Microsoft edge.
-
+On the same screen, in the upper left area under Connections, go to Sites>Default Web>osTicket. Click on the osTicket folder in order to see "Browse*.80" on the right under "Browse Folder". Click on it and it will open the osTicket Installer window in Microsoft edge see Below:
+ 
+ <img src="https://i.imgur.com/bi6gCPe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 <p>
