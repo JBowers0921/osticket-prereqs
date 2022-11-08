@@ -197,7 +197,7 @@ You will see which programs failed installation. DO NOT CLICK FINISH yet. Return
 <img src="https://i.imgur.com/AH2eJYr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go back to the download folder and open the extracted folder and find the folder named "upload". Copy and paste the "upload" folder into "This PC > Windows(C:)inetpub > wwwroot" (c:\inetpub\wwwroot).
+Go back to the download folder and open the extracted folder and find the folder named "upload". Copy and paste the "upload" folder into "This PC > Windows (C:)inetpub > wwwroot"  (c:\inetpub\wwwroot).
  Next, while still within the "wwwroot" folder, rename the "upload" file to osTicket.
 </p>
 <br />
@@ -238,4 +238,51 @@ Go back to your osTicket Installer window and observe the changes.
 Next, go into C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename the ost-sampleconfig.php file to ost-config.php
 
 </p>
+<br />
+ <img src="https://i.imgur.com/KP2xKiH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p>
+<p>
+Finally, you need to assign permissions in ost-config.php. While you still have the "include" file open, scroll down to ost-config.php and right-click. Go to Properties > Security > Advanced >and click "Disable Inheritance" and then "Remove all inherited permissions from this object".
+</p>
+</p>
+<br />
+ <img src="https://i.imgur.com/sO2VUBh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p>
+<p>
+On the next pop-up screen: Select "Add", then "Select a principal", then type in the field "everyone", then click on "check names" then click "ok". This pop-up window will close.
+</p>
+</p>
+<br />
+ <img src="https://i.imgur.com/Y9NjpWS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p>
+<p>
+On the next pop-up screen: Put a check mark in the "Full Control" box, then "Ok". This pop-up window will close. Click "Ok" on the remaining open ost-config.php pop-up windows to close them out.
+<br />
+</p>
+</p>
+<br />
+ <img src="https://i.imgur.com/gxPUBZl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p>
+<p>
+Next, return to your osTicket Installer browser to finish setting it up. Click "Continue" at the bottom. The screen above will display. On this screen, fill in the fields shown in the example above. STOP after retyping your password. 
+
+</p>
+</p>
+<br />
+Now, download and open "HeidiSQL" from your google shared lab files. Open the file and follow the promps install/launch it. 
+</p>
+</p>
+<br />
+ <img src="https://i.imgur.com/LVqFXrr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p>
+<p>
+When the new window pops up (HS Session Manager), click "+New " and enter your password for root from the instructions and select "Open"
+<br />
+</p>
+</p>
+<br />
+ <img src="https://i.imgur.com/T0caIc0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p>
+<p>
+On the Next window that pops up (HS Unnamed), right-click "Unnamed" > "Create new" > Database. Enter a name for the database called "osTicket"  and select "OK".  You will see it created in the list under Unnamed on the left. Close the window.
 <br />
