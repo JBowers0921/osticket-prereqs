@@ -114,23 +114,20 @@ You are now inside of VM1.
 <img src="https://i.imgur.com/TVD2kOv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From inside of VM1, your next installation will be Internet Information Service (ISS). Open your control panel. Select Programs>Programs and Features> Turn Windows features on or off. On this pop up window, select IIS and then "OK"
+From inside of VM1, your next installation will be Internet Information Service (IIS). Open your control panel. Select Programs>Programs and Features> Turn Windows features on or off. On this pop up window, select IIS and then "OK"
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/LnNfH4i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<img src="https://i.imgur.com/LnNfH4i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-You are now inside of VM1.
+You are now inside of VM1. Open a Microsoft Edge browser and copy and paste the link for the installation files from your shared google drive.
 </p>
-<br />
-From inside of VM1, your next installation will be Internet Information Service (ISS). Open your control panel. Select Programs>Programs and Features> Turn Windows features on or off. On this pop up window, select IIS and then "OK".
-</p>
-<br />
-<p>
-<img src="https://i.imgur.com/TVD2kOv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/HzCVuRP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-You are now inside of VM1.
+From your google drive documents, download and install Web Platform Installer.
 </p>
 <br />
