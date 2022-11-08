@@ -149,7 +149,7 @@ From the Windows start menu, search for the Web Platform Installer and click on 
 
 <img src="https://i.imgur.com/iF4YIGS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<<p>
+<p>
  
  
 In the search field, type MySQL 5.5 and then search. When it appears, select "Add".
@@ -157,15 +157,14 @@ In the search field, type MySQL 5.5 and then search. When it appears, select "Ad
 <br />
 <img src="https://i.imgur.com/bXYePTs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<<p>
- 
+<p>
 Next, in the same search field, type "PHP" and enter. Sort/Filter by name. Scroll down to where PHP begins and start adding all the simple version of x86 from 5.6.31 x86 to 7.3.25 x86. Select "Install"
 </p>
 <br />
 
 <img src="https://i.imgur.com/mM1ooMd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<<p>
+<p>
  
 The next pop-up window will require you to enter your password two times and click "Continue". Wait for the installation to stop.
 </p>
@@ -173,7 +172,7 @@ The next pop-up window will require you to enter your password two times and cli
 
 <img src="https://i.imgur.com/vHqS7X5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<<p>
+<p>
  
 In the next pop-up window, select "I Accept" to continue".
 </p>
@@ -181,20 +180,40 @@ In the next pop-up window, select "I Accept" to continue".
 <img src="https://i.imgur.com/h6ksiB0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-You will see which items failed to insatll. DO NOT CLICK FINISH yet. Return to your downloaded google drive files and download and follow the steps to install PHP manager and Microsoft C++ in order to fix any files that failed to install. 
+You will see which programs failed installation. DO NOT CLICK FINISH yet. Return to your google drive files and download and install PHP manager and Microsoft C++ in order to fix any files that failed to install. 
  
- Go back to the Web Platform Installer and select "Finish".
-</p>
+ Go back to the Web Platform Installer and select "Finish". 
+ 
+ 
+ Now you are ready to install osTicket v 1.15.8.
+  </p>
 <br />
-<img src=" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qFwkh2X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-You w.
+ From your google drive files, download and install osTicket. Go to your system downloads and right-click on osTicket. Select Extract All>Extract and wait for the process to finish.
 </p>
 <br />
-<img src="https://i.imgur.com/h6ksiB0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AH2eJYr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-You will see which items failed to insatll. DO NOT CLICK FINISH yet.
+Go back to the download folder and open the extracted folder and find the folder named "upload". Copy and paste the "upload" folder into "This PC > Windows(C:)inetpub > wwwroot" (c:\inetpub\wwwroot).
+ Next, while still within the "wwwroot" folder, rename the "upload" file to osTicket.
 </p>
 <br />
+<img src="https://i.imgur.com/lc28wA6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From the windows start menu and open the IIS app. Select the Restart icon in order to refresh the app. 
+</p>
+<br />
+<img src="https://i.imgur.com/1IrNin1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+On the same screen, in the upper left area under Connections, go to Sites>Default Web>osTicket. Click on the osTicket folder in order to see "Browse*.80" on the right under "Browse Folder". Click on it and it will open the osTicket window in Microsoft edge.
+
+<br />
+ 
+<img src="https:/" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
