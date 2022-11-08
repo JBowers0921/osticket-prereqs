@@ -210,7 +210,7 @@ From the windows start menu and open the IIS app. Select the Restart icon in ord
 <img src="https://i.imgur.com/1IrNin1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On the same screen, in the upper left area under Connections, go to Sites>Default Web>osTicket. Click on the osTicket folder in order to see "Browse*.80" on the right under "Browse Folder". Click on it and it will open the osTicket window in Microsoft edge.
+On the same screen, in the upper left area under Connections, go to Sites>Default Web>osTicket. Click on the osTicket folder in order to see "Browse*.80" on the right under "Browse Folder". Click on it and it will open the osTicket Installer window in Microsoft edge.
 
 <br />
  
