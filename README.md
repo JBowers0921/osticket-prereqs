@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/PnNfAFL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In your browser, go to portal.azure.com and create a subscription. Next, create a resourse group by going to the search filed and typing in "resource group".
+In your browser, go to portal.azure.com and create a subscription. Next, create a Resourse Group (RG) by going to the search filed and typing in "resource group".
 </p>
 <br />
 
@@ -41,7 +41,7 @@ In your browser, go to portal.azure.com and create a subscription. Next, create 
 <img src="https://i.imgur.com/NG6aeRT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- In the middle of the screen, click on "create resource group". Next screen, name your RG and select a region. Select "review & create" and then "create" at the botton.
+ In the middle of the screen, click on "create resource group". Next screen, name your Reseource Group (RG) and select a region. Select "review & create" and then "create" at the botton.
 </p>
 <br />
 
@@ -67,7 +67,7 @@ The next screen should be filled out similar to the example above. Be sure to se
 <img src="https://i.imgur.com/YJDwLBI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This is the bottom of the previous page. Check the box under "Licensing" and then "review & create
+This is the bottom of the previous page. Check the box under "Licensing" and then "Next:Disks, Next:Networking " Leave the defauld settings "as-is". Select "Review+Create". After your Validation has passed, select "Create".
 </p>
 <br />
 </p>
@@ -88,17 +88,17 @@ Return to your home screen, select the Virtual Machine icon to view the VM you c
 <br />
 </p>
 <br />
-<img src="---------" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UBDynBY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+If you have not done so already, download/install the Remote Desktop Connection app onto your PC and pin it to your task bar. Return to Azure and open your VM1 and look to the right of the screen to locate your Public IP address. Copy it and open your Remote Desktop Connection App.
 </p>
 <br />
 </p>
 <br />
-<img src="https://-----------g" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/y6Ly5d5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click "connect" and follow the promps on the pop up windows to connect to VM1.
 </p>
 <br />
