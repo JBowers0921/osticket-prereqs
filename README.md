@@ -131,3 +131,15 @@ From inside of VM1, your next installation will be Internet Information Service 
 From your google drive documents, download and install Web Platform Installer inside of VM1.
 </p>
 <br />
+<img src="https://i.imgur.com/kKDGe3K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From your google drive documents, download and install Web Platform Installer inside of VM1.
+</p>
+<br />
+<img src="https://i.imgur.com/HzCVuRP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From your google drive documents, download and install Web Platform Installer inside of VM1.
+</p>
+<br />
