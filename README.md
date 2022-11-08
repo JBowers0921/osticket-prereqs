@@ -99,6 +99,18 @@ If you have not done so already, download/install the Remote Desktop Connection 
 <img src="https://i.imgur.com/y6Ly5d5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click "connect" and follow the promps on the pop up windows to connect to VM1.
+Paste the copied Public IP address from VM1 into the Computer field and Click "connect" and follow the promps on the pop up windows to connect to VM1.
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/PnNfAFL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+You are now inside of VM1.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/NG6aeRT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
