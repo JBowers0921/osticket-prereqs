@@ -103,7 +103,7 @@ Paste the copied Public IP address from VM1 into the Computer field and Click "c
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/PnNfAFL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LnNfH4i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 You are now inside of VM1.
@@ -111,6 +111,26 @@ You are now inside of VM1.
 <br />
 
 <p>
-<img src="https://i.imgur.com/NG6aeRT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TVD2kOv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+From inside of VM1, your next installation will be Internet Information Service (ISS). Open your control panel. Select Programs>Programs and Features> Turn Windows features on or off. On this pop up window, select IIS and then "OK"
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/LnNfH4i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+You are now inside of VM1.
+</p>
+<br />
+From inside of VM1, your next installation will be Internet Information Service (ISS). Open your control panel. Select Programs>Programs and Features> Turn Windows features on or off. On this pop up window, select IIS and then "OK".
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/TVD2kOv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+You are now inside of VM1.
+</p>
+<br />
