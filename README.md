@@ -118,16 +118,13 @@ From inside of VM1, your next installation will be Internet Information Service 
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/LnNfH4i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<img src="https://i.imgur.com/LnNfH4i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-You are now inside of VM1. Open a Microsoft Edge browser and copy and paste the link for the installation files from your shared google drive.
+ Open a Microsoft Edge browser and copy and paste the link for the installation files from your shared google drive.
 </p>
 
 <img src="https://i.imgur.com/HzCVuRP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From your google drive documents, download and install Web Platform Installer.
+From your google drive documents, download and install Web Platform Installer inside of VM1.
 </p>
 <br />
