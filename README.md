@@ -198,7 +198,7 @@ You will see which programs failed installation. DO NOT CLICK FINISH yet. Return
 </p>
 <p>
 Go back to the download folder and open the extracted folder and find the folder named "upload". Copy and paste the "upload" folder into "This PC > Windows (C:)inetpub > wwwroot"  (c:\inetpub\wwwroot).
- Next, while still within the "wwwroot" folder, rename the "upload" file to osTicket.
+ Next, while still within the "wwwroot" folder, rename the "upload" file to "osTicket".
 </p>
 <br />
 <img src="https://i.imgur.com/lc28wA6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -207,7 +207,6 @@ Go back to the download folder and open the extracted folder and find the folder
 From the windows start menu and open the IIS app. Select the Restart icon in order to refresh the app. 
 </p>
 <br />
-<img src="https://i.imgur.com/1IrNin1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
  
 <img src="https://i.imgur.com/RHacm52.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -280,9 +279,21 @@ When the new window pops up (HS Session Manager), click "+New " and enter your p
 <br />
 </p>
 </p>
-<br />
  <img src="https://i.imgur.com/T0caIc0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/CeyuqGu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  </p>
 <p>
 On the Next window that pops up (HS Unnamed), right-click "Unnamed" > "Create new" > Database. Enter a name for the database called "osTicket"  and select "OK".  You will see it created in the list under Unnamed on the left. Close the window.
 <br />
+<br />
+ <img src="https://i.imgur.com/EFj70AI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p>
+<p>
+Return to the osTicket Installer in your browser to complete the Database Settings section at the bottom. Fill in the "MySQL Database", "Username" and "Password" fields as shown above and selct "Install Now". You will see "Doing Stuff" message.
+<br />
+</p>
+</p>
+<img src="https://i.imgur.com/rleFyCg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p>
+<p>
+If there are no errors, you will see the Congratulations message on the osTicket Installer browser.  Finish up by removing the setup folder and it's contents from C:\inetpub\wwwroot\osTicket\setup. Then finally, set permissions to “Read” only in : C:\inetpub\wwwroot\osTicket\include\ost-config.php.
