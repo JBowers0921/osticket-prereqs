@@ -92,6 +92,7 @@ Return to your home screen, select the Virtual Machine icon to view the VM you c
 </p>
 <p>
 If you have not done so already, download/install the Remote Desktop Connection app onto your PC and pin it to your task bar. Return to Azure and open your VM1 and look to the right of the screen to locate your Public IP address. Copy it and open your Remote Desktop Connection App.
+ 
 </p>
 <br />
 </p>
@@ -141,10 +142,50 @@ From your google drive documents, download and install Web Platform Installer in
 <p>
 From the Windows start menu, search for the Web Platform Installer and click on the app to open it.
 </p>
-<br />
-<img src="   .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /
+<img src="https://i.imgur.com/ehywq22.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From your google drive documents, download and install Web Platform Installer inside of VM1.
+In the search field, type MySQL 5.5 and then search. When it appears, select "Add".
+</p>
+<br />
+
+<img src="https://i.imgur.com/bXYePTs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<<p>
+ 
+Next, in the same search field, type "PHP" and enter. Sort/Filter by name. Scroll down to where PHP begins and start adding all the simple version of x86 from 5.6.31 x86 to 7.3.25 x86. Select "Install"
+</p>
+<br /
+<img src="https://i.imgur.com/0DxRbt9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The next pop-up window will require you to enter your password two times and click "Continue". Wait for the installation to stop.
+</p>
+<br /
+<img src="https://i.imgur.com/yYDo6l4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the next pop-up window, select "I Accept" to continue".
+</p>
+<br />
+<img src="https://i.imgur.com/h6ksiB0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+You will see which items failed to insatll. DO NOT CLICK FINISH yet. Return to your downloaded google drive files and download and follow the steps to install PHP manager and Microsoft C++ in order to fix any files that failed to install. 
+ 
+ Go back to the Web Platform Installer and select "Finish".
+</p>
+<br />
+<img src=" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+You w.
+</p>
+<br />
+<img src="https://i.imgur.com/h6ksiB0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+You will see which items failed to insatll. DO NOT CLICK FINISH yet.
 </p>
 <br />
