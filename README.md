@@ -99,6 +99,7 @@ If you have not done so already, download/install the Remote Desktop Connection 
 <img src="https://i.imgur.com/y6Ly5d5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+ 
 Paste the copied Public IP address from VM1 into the Computer field and Click "connect" and follow the promps on the pop up windows to connect to VM1.
 </p>
 <br />
@@ -106,6 +107,7 @@ Paste the copied Public IP address from VM1 into the Computer field and Click "c
 <img src="https://i.imgur.com/LnNfH4i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+ 
 You are now inside of VM1.
 </p>
 <br />
@@ -114,6 +116,7 @@ You are now inside of VM1.
 <img src="https://i.imgur.com/TVD2kOv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+ 
 From inside of VM1, your next installation will be Internet Information Service (IIS). Open your control panel. Select Programs>Programs and Features> Turn Windows features on or off. On this pop up window, select IIS and then "OK"
 </p>
 <br />
@@ -125,16 +128,18 @@ From inside of VM1, your next installation will be Internet Information Service 
  Open a Microsoft Edge browser and copy and paste the link for the installation files from your shared google drive.
 </p>
 
+
 <img src="https://i.imgur.com/HzCVuRP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+<<p>
+ 
 From your google drive documents, download and install Web Platform Installer inside of VM1.
 </p>
 <br />
 <img src="https://i.imgur.com/kKDGe3K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From your google drive documents, download and install Web Platform Installer inside of VM1.
+From the Windows start menu, search for the Web Platform Installer and click on the app to open it.
 </p>
 <br />
 <img src="https://i.imgur.com/HzCVuRP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
