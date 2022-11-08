@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create a Virtual Machine and connect to it remotely
 - Enable ISS and Web Platform
 - Configure Permissions
-- Istall osTicketing System
+- Install osTicketing System
 
 <h2>Installation Steps</h2>
 
