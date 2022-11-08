@@ -118,6 +118,9 @@ From inside of VM1, your next installation will be Internet Information Service 
 </p>
 <br />
 <p>
+ <img src="https://i.imgur.com/ehPOJhE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 <p>
  Open a Microsoft Edge browser and copy and paste the link for the installation files from your shared google drive.
 </p>
