@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Active subscription in Azure
 - Create a Resource Group 
 - Create a Virtual Machine and connect to it remotely
-- Enable ISS and Web Platform
+- Enable IIS and Web Platform
 - Configure Permissions
 - Install osTicketing System
 
