@@ -209,11 +209,33 @@ From the windows start menu and open the IIS app. Select the Restart icon in ord
 <br />
 <img src="https://i.imgur.com/1IrNin1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+ 
+<img src="https://i.imgur.com/RHacm52.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 On the same screen, in the upper left area under Connections, go to Sites>Default Web>osTicket. Click on the osTicket folder in order to see "Browse*.80" on the right under "Browse Folder". Click on it and it will open the osTicket Installer window in Microsoft edge.
 
 <br />
- 
-<img src="https:/" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+ <img src="https://i.imgur.com/FkcpNdP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p>
+<p>
+To insure all extensions are Enabled in IIS: Go back to IIS > sites > default > osTicket and double click on the PHP Manager Icon.
+
+</p>
+<br />
+<img src="https://i.imgur.com/ANzSKd8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open the PHP icon and select "Enable or Disable an extension. Enable the following: php_imap.dll, php_intl.dll and php_opcache.dll
+</p>
+<br />
+<p>
+ <img src="https://i.imgur.com/NjuRg8Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p>
+<p>
+Go back to your osTicket Installer window and observe the changes.
+Next, go into C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename the ost-sampleconfig.php file to ost-config.php
+
+</p>
+<br />
